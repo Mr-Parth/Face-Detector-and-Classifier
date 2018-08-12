@@ -10,7 +10,7 @@ Requirements:-
 * Python3
 * OpenCV
 
-*Run :- python3 opencv_cascade_face_detection/face_detect.py 
+*Run :- python3 opencv_cascade_face_detection/face_detect.py*
 
 ### CNN / HOG face detector
 Requiremnts :-
@@ -20,8 +20,8 @@ Requiremnts :-
 * face_recognition
 * imutils
 
-*Build_encoder :- python3 opencv_facerecog_with_classifier/encode.py --encodings [name].pickle --dataset [dir]
-*Run :- python3 opencv_facerecog_with_classifier/recog_image.py --encodings [name].pickle --image [name].jpg
+*Build_encoder :- python3 opencv_facerecog_with_classifier/encode.py --encodings [name].pickle --dataset [dir]*
+*Run :- python3 opencv_facerecog_with_classifier/recog_image.py --encodings [name].pickle --image [name].jpg*
 
 
 ### Example of Face Detector with CNN with trained encoder on my images
