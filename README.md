@@ -21,6 +21,7 @@ Requiremnts :-
 * imutils
 
 *Build_encoder :- python3 opencv_facerecog_with_classifier/encode.py --encodings [name].pickle --dataset [dir]*
+
 *Run :- python3 opencv_facerecog_with_classifier/recog_image.py --encodings [name].pickle --image [name].jpg*
 
 
